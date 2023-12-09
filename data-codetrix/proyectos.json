@@ -1,0 +1,122 @@
+[
+    {
+        "_id":{
+            "$oid":"6573df6b63ad43fdebdacd04"
+        },
+        "proyectos":[
+            {
+                "nombreProyecto":"Proyecto1",
+                "files":[
+                    {
+                        "html": "<!DOCTYPE html>\n<html lang=\"es\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Cambio de Color</title>\n    <link rel=\"stylesheet\" href=\"styles.css\">\n</head>\n<body>\n\n    <div id=\"contenedor\">\n        <p id=\"miParrafo\">¡Haz clic para cambiar el color!</p>\n    </div>\n\n    <script src=\"script.js\"></script>\n</body>\n</html>"
+                    },
+                    {
+                        "css":"#contenedor {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    height: 100vh;\n    background-color: #f8c1da; /* Color de fondo inicial (rosado) */\n    transition: background-color 0.5s; /* Agregar transición para el cambio de color */\n}\n\n#miParrafo {\n    cursor: pointer;\n}"
+                    },
+                    {
+                        "js": "document.addEventListener(\"DOMContentLoaded\", function() {\n    // Obtener el elemento del párrafo\n    const miParrafo = document.getElementById(\"miParrafo\");\n\n    // Agregar un evento de clic para cambiar el color\n    miParrafo.addEventListener(\"click\", function() {\n        // Cambiar el color de fondo a azul claro\n        document.getElementById(\"contenedor\").style.backgroundColor = \"#a1c9f7\";\n    });\n});"
+                    }
+                ]
+            },
+            {
+                "nombreProyecto":"Proyecto Personal",
+                "files":[
+                    {
+                        "html": "<!DOCTYPE html>\n<html lang=\"es\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Cambio de Color</title>\n    <link rel=\"stylesheet\" href=\"styles.css\">\n</head>\n<body>\n\n    <div id=\"contenedor\">\n        <p id=\"miParrafo\">¡Haz clic para cambiar el color!</p>\n    </div>\n\n    <script src=\"script.js\"></script>\n</body>\n</html>"
+                    },
+                    {
+                        "css":"#contenedor {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    height: 100vh;\n    background-color: #f8c1da; /* Color de fondo inicial (rosado) */\n    transition: background-color 0.5s; /* Agregar transición para el cambio de color */\n}\n\n#miParrafo {\n    cursor: pointer;\n}"
+                    },
+                    {
+                        "js": "document.addEventListener(\"DOMContentLoaded\", function() {\n    // Obtener el elemento del párrafo\n    const miParrafo = document.getElementById(\"miParrafo\");\n\n    // Agregar un evento de clic para cambiar el color\n    miParrafo.addEventListener(\"click\", function() {\n        // Cambiar el color de fondo a azul claro\n        document.getElementById(\"contenedor\").style.backgroundColor = \"#a1c9f7\";\n    });\n});"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id":{
+            "$oid":"6573df6b63ad43fdebdacd05"
+        },
+        "proyectos":[
+            {
+                "nombreProyecto":"Proyecto1",
+                "files":[
+                    {
+                        "html": "<!DOCTYPE html>\n<html lang=\"es\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Cambio de Color</title>\n    <link rel=\"stylesheet\" href=\"styles.css\">\n</head>\n<body>\n\n    <div id=\"contenedor\">\n        <p id=\"miParrafo\">¡Haz clic para cambiar el color!</p>\n    </div>\n\n    <script src=\"script.js\"></script>\n</body>\n</html>"
+                    },
+                    {
+                        "css":"#contenedor {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    height: 100vh;\n    background-color: #f8c1da; /* Color de fondo inicial (rosado) */\n    transition: background-color 0.5s; /* Agregar transición para el cambio de color */\n}\n\n#miParrafo {\n    cursor: pointer;\n}"
+                    },
+                    {
+                        "js": "document.addEventListener(\"DOMContentLoaded\", function() {\n    // Obtener el elemento del párrafo\n    const miParrafo = document.getElementById(\"miParrafo\");\n\n    // Agregar un evento de clic para cambiar el color\n    miParrafo.addEventListener(\"click\", function() {\n        // Cambiar el color de fondo a azul claro\n        document.getElementById(\"contenedor\").style.backgroundColor = \"#a1c9f7\";\n    });\n});"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id":{
+            "$oid":"6573df6b63ad43fdebdacd06"
+        },
+        "proyectos":[
+            {
+                "nombreProyecto":"Proyecto1",
+                "files":[
+                    {
+                        "html": "<!DOCTYPE html>\n<html lang=\"es\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Cambio de Color</title>\n    <link rel=\"stylesheet\" href=\"styles.css\">\n</head>\n<body>\n\n    <div id=\"contenedor\">\n        <p id=\"miParrafo\">¡Haz clic para cambiar el color!</p>\n    </div>\n\n    <script src=\"script.js\"></script>\n</body>\n</html>"
+                    },
+                    {
+                        "css":"#contenedor {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    height: 100vh;\n    background-color: #f8c1da; /* Color de fondo inicial (rosado) */\n    transition: background-color 0.5s; /* Agregar transición para el cambio de color */\n}\n\n#miParrafo {\n    cursor: pointer;\n}"
+                    },
+                    {
+                        "js": "document.addEventListener(\"DOMContentLoaded\", function() {\n    // Obtener el elemento del párrafo\n    const miParrafo = document.getElementById(\"miParrafo\");\n\n    // Agregar un evento de clic para cambiar el color\n    miParrafo.addEventListener(\"click\", function() {\n        // Cambiar el color de fondo a azul claro\n        document.getElementById(\"contenedor\").style.backgroundColor = \"#a1c9f7\";\n    });\n});"
+                    }
+                ]
+            },
+            {
+                "nombreProyecto":"Proyecto2",
+                "files":[
+                    {
+                        "html": "<!DOCTYPE html>\n<html lang=\"es\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Cambio de Color</title>\n    <link rel=\"stylesheet\" href=\"styles.css\">\n</head>\n<body>\n\n    <div id=\"contenedor\">\n        <p id=\"miParrafo\">¡Haz clic para cambiar el color!</p>\n    </div>\n\n    <script src=\"script.js\"></script>\n</body>\n</html>"
+                    },
+                    {
+                        "css":"#contenedor {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    height: 100vh;\n    background-color: #f8c1da; /* Color de fondo inicial (rosado) */\n    transition: background-color 0.5s; /* Agregar transición para el cambio de color */\n}\n\n#miParrafo {\n    cursor: pointer;\n}"
+                    },
+                    {
+                        "js": "document.addEventListener(\"DOMContentLoaded\", function() {\n    // Obtener el elemento del párrafo\n    const miParrafo = document.getElementById(\"miParrafo\");\n\n    // Agregar un evento de clic para cambiar el color\n    miParrafo.addEventListener(\"click\", function() {\n        // Cambiar el color de fondo a azul claro\n        document.getElementById(\"contenedor\").style.backgroundColor = \"#a1c9f7\";\n    });\n});"
+                    }
+                ]
+            },
+            {
+                "nombreProyecto":"Proyecto3",
+                "files":[
+                    {
+                        "html": "<!DOCTYPE html>\n<html lang=\"es\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Cambio de Color</title>\n    <link rel=\"stylesheet\" href=\"styles.css\">\n</head>\n<body>\n\n    <div id=\"contenedor\">\n        <p id=\"miParrafo\">¡Haz clic para cambiar el color!</p>\n    </div>\n\n    <script src=\"script.js\"></script>\n</body>\n</html>"
+                    },
+                    {
+                        "css":"#contenedor {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    height: 100vh;\n    background-color: #f8c1da; /* Color de fondo inicial (rosado) */\n    transition: background-color 0.5s; /* Agregar transición para el cambio de color */\n}\n\n#miParrafo {\n    cursor: pointer;\n}"
+                    },
+                    {
+                        "js": "document.addEventListener(\"DOMContentLoaded\", function() {\n    // Obtener el elemento del párrafo\n    const miParrafo = document.getElementById(\"miParrafo\");\n\n    // Agregar un evento de clic para cambiar el color\n    miParrafo.addEventListener(\"click\", function() {\n        // Cambiar el color de fondo a azul claro\n        document.getElementById(\"contenedor\").style.backgroundColor = \"#a1c9f7\";\n    });\n});"
+                    }
+                ]
+            },
+            {
+                "nombreProyecto":"Proyecto4",
+                "files":[
+                    {
+                        "html": "<!DOCTYPE html>\n<html lang=\"es\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Cambio de Color</title>\n    <link rel=\"stylesheet\" href=\"styles.css\">\n</head>\n<body>\n\n    <div id=\"contenedor\">\n        <p id=\"miParrafo\">¡Haz clic para cambiar el color!</p>\n    </div>\n\n    <script src=\"script.js\"></script>\n</body>\n</html>"
+                    },
+                    {
+                        "css":"#contenedor {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    height: 100vh;\n    background-color: #f8c1da; /* Color de fondo inicial (rosado) */\n    transition: background-color 0.5s; /* Agregar transición para el cambio de color */\n}\n\n#miParrafo {\n    cursor: pointer;\n}"
+                    },
+                    {
+                        "js": "document.addEventListener(\"DOMContentLoaded\", function() {\n    // Obtener el elemento del párrafo\n    const miParrafo = document.getElementById(\"miParrafo\");\n\n    // Agregar un evento de clic para cambiar el color\n    miParrafo.addEventListener(\"click\", function() {\n        // Cambiar el color de fondo a azul claro\n        document.getElementById(\"contenedor\").style.backgroundColor = \"#a1c9f7\";\n    });\n});"
+                    }
+                ]
+            }
+        ]
+    }
+
+]

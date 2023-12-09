@@ -1,0 +1,70 @@
+[
+       {
+        "nombreCompleto": "Juan Perez",
+        "nombreUsuario": "JP2023",
+        "identidad":"080199310034",
+        "correoElectronico":"jperez02@gmail.com",
+        "fechaNacimiento":"18-10-1993",
+        "numeroTelefono":"98124789",
+        "img":"https://img.freepik.com/vector-premium/diseno-pers…on-vectorial-grafico-eps10_24908-10666.jpg?w=2000",
+        "contraseña":"12345",
+        "plan":"Básico",
+        "proyectos":[
+            {
+                "id":"01",
+                "nombreProyecto":"Proyecto1"
+            },
+            {
+                "id":"02",
+                "nombreProyecto":"Proyecto Personal"
+            }
+        ]
+       },
+       {
+        "nombreCompleto": "Ana Lopez",
+        "nombreUsuario": "Anita555",
+        "identidad":"080200310034",
+        "correoElectronico":"an9393@gmail.com",
+        "fechaNacimiento":"18-01-2003",
+        "numeroTelefono":"99124709",
+        "img":"https://img.freepik.com/vector-premium/ilustracion-dia-mujer_391639-701.jpg",
+        "contraseña":"54321",
+        "plan":"Gratuito",
+        "proyectos":[
+            {
+                "id":"03",
+                "nombreProyecto":"ProyectoTarea"
+            }
+        ]
+       },
+       {
+        "nombreCompleto": "Victor García",
+        "nombreUsuario": "gracia33",
+        "identidad":"0803200189787",
+        "correoElectronico":"gracia03@gmail.com",
+        "fechaNacimiento":"10-3-2001",
+        "numeroTelefono":"98456689",
+        "img":"https://img.freepik.com/vector-premium/retrato-chi…ven-ilustracion-vector-lindo_647188-77.jpg?w=2000",
+        "contraseña":"3456",
+        "plan":"Premium",
+        "proyectos":[
+            {
+                "id":"04",
+                "nombreProyecto":"Proyecto1"
+            },
+            {
+                "id":"05",
+                "nombreProyecto":"Proyecto2"
+            },
+            {
+                "id":"06",
+                "nombreProyecto":"Proyecto3"
+            },
+            {
+                "id":"07",
+                "nombreProyecto":"Proyecto4"
+            }
+        ]
+       } 
+
+]
